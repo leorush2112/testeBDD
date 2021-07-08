@@ -1,5 +1,0 @@
-package petz;
-
-class ComprarProdutoTest {
-
-}
